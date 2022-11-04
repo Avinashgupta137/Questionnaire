@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.5.0)
+  - lottie-ios (3.3.0)
+  - SRCountdownTimer (1.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - lottie-ios
+  - SRCountdownTimer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - lottie-ios
+    - SRCountdownTimer
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  SRCountdownTimer: b7f833a51cd33003d55df17667b71d26ee17357f
+
+PODFILE CHECKSUM: e9f59ae51d359bdf25080062d13bf398a9fee31c
+
+COCOAPODS: 1.11.3

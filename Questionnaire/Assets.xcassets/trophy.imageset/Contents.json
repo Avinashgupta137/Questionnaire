@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "—Pngtree—business team success concept people_5335905.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "—Pngtree—business team success concept people_5335905@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "—Pngtree—business team success concept people_5335905@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
