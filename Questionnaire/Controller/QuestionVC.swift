@@ -16,6 +16,7 @@ class QuestionVC: UIViewController{
     @IBOutlet weak var YesBtn: UIButton!
     
     //MARK: - Variable
+    
     var PlayedPlayerName: String = ""
     var Questionnaire = [Questions]()
     var questionNumber: Int = 0
